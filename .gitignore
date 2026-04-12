@@ -1,9 +1,13 @@
 data/raw/*
-data/processed/*
+reports/*
+reports.zip
+data/*
+data/processed/news_cleaned_part2.csv
+data/processed/news_small.csv
 
+notebook/Final_Project.ipynb
 models/*
 
-venv/
 .venv/
 env/
 
